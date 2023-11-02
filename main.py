@@ -1,6 +1,8 @@
 import tkinter as tk
 
 
+# Dark Mode Tkinter with Login as Example
+
 class LoginApp:
 
     def __init__(self, root):
